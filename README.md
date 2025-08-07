@@ -31,8 +31,6 @@ UserRegistrationApp/
 ├── user_data.db        # SQLite database file (auto-created)
 ├── registration_app.py # Main Python application file
 └── README.md           # Project documentation
-```
-Screenshots
 
 
 
